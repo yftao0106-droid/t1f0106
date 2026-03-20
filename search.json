@@ -2,15 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "t1f0106",
+    "title": "陶一凡的个人主页",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "姓名：陶一凡\n专业/方向：资源利用与植物保护\n兴趣：Python、Quarto建站、羽毛球、阅读\n联系方式：GitHub：yftao0106-droid\n\n\n\n\n我正在学习编程和网页制作，这是我用Quarto搭建的第一个个人主页，后续会持续更新我的学习笔记和项目～\n\n\n\n\n第一个Quarto个人网站 - 用Quarto+GitHub Pages搭建的静态网页"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "陶一凡的个人主页",
+    "section": "",
+    "text": "姓名：陶一凡\n专业/方向：资源利用与植物保护\n兴趣：Python、Quarto建站、羽毛球、阅读\n联系方式：GitHub：yftao0106-droid"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "陶一凡的个人主页",
+    "section": "",
+    "text": "我正在学习编程和网页制作，这是我用Quarto搭建的第一个个人主页，后续会持续更新我的学习笔记和项目～"
+  },
+  {
+    "objectID": "index.html#我的小项目",
+    "href": "index.html#我的小项目",
+    "title": "陶一凡的个人主页",
+    "section": "",
+    "text": "第一个Quarto个人网站 - 用Quarto+GitHub Pages搭建的静态网页"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "关于我",
     "section": "",
-    "text": "About this site"
+    "text": "华中农业大学 资源利用与植物保护专业 2025级\n\n\n\n\n基础：Git、Markdown、HTML\n正在学习：Python、Quarto\n工具：VS Code、GitHub\n\n\n\n\n编程学习是一个慢慢积累的过程，希望通过这个主页记录自己的成长，也希望能和同样学习编程的小伙伴交流～"
+  },
+  {
+    "objectID": "about.html#学习经历",
+    "href": "about.html#学习经历",
+    "title": "关于我",
+    "section": "",
+    "text": "华中农业大学 资源利用与植物保护专业 2025级"
+  },
+  {
+    "objectID": "about.html#技能清单",
+    "href": "about.html#技能清单",
+    "title": "关于我",
+    "section": "",
+    "text": "基础：Git、Markdown、HTML\n正在学习：Python、Quarto\n工具：VS Code、GitHub"
+  },
+  {
+    "objectID": "about.html#想说的话",
+    "href": "about.html#想说的话",
+    "title": "关于我",
+    "section": "",
+    "text": "编程学习是一个慢慢积累的过程，希望通过这个主页记录自己的成长，也希望能和同样学习编程的小伙伴交流～"
   }
 ]
